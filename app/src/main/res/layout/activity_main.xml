@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F6F7FB"
+    tools:context=".MainActivity">
+
+    <!--<com.example.coco.shadowdemo.ShadowContainer-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="100dp"-->
+    <!--app:containerDeltaLength="10dp"-->
+    <!--app:containerShadowRadius="16dp"-->
+    <!--app:containerShadowColor="#DAE2F7"-->
+    <!--app:enable="true"-->
+    <!--&gt;-->
+    <!--<TextView-->
+    <!--android:layout_width="300dp"-->
+    <!--android:layout_height="200dp"-->
+    <!--android:background="#fff"-->
+    <!--/>-->
+    <!--</com.example.coco.shadowdemo.ShadowContainer>-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/bg_shadow">
+
+    </LinearLayout>
+
+</LinearLayout>
